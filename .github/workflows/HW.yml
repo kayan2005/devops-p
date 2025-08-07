@@ -1,4 +1,4 @@
-name: cl.yml
+name: HW.yml
 on:
   push:
     branches:
